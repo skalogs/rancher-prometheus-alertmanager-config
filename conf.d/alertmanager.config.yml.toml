@@ -1,0 +1,5 @@
+[template]
+src="alertmanager.config.yml.tmpl"
+dest="/etc/alertmanager/config.yml"
+keys= [
+]
